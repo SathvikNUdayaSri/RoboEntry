@@ -1,0 +1,16 @@
+Thanks for downloading this Project 
+
+Steps:
+1.Create folder in your desktop Name it "RoboEntry" 
+
+2. Run the UiPath Bot 
+
+3. Try to Copy Sample Excel files which is there in project folder to RoboEntry folder 
+
+See the Magic 
+
+
+
+Developed By 
+Sudheer Nimmagadda
++91 9705435277
